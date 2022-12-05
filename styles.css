@@ -33,3 +33,13 @@ div class="main", or class="logo-img" becomes .logo-img
     margin-right: auto;
     margin-bottom: 20px;
 }
+
+.p1 {
+    display: block;
+    background-color: beige;
+}
+
+.p2 {
+    display: block;
+    background-color: yellowgreen;
+}
